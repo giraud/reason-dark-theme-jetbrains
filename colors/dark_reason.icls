@@ -1,0 +1,21 @@
+<scheme name="dark_reason" version="1" parent_scheme="Darcula">
+  <attributes>
+    <option name="REASONML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="33806b" />
+      </value>
+    </option>
+    <option name="REASONML_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="bf576e" />
+      </value>
+    </option>
+    <option name="REASONML_TAG">
+      <value>
+        <option name="FOREGROUND" value="964ac6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
