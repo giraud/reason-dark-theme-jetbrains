@@ -2,19 +2,39 @@
   <attributes>
     <option name="REASONML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="33806b" />
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="REASONML_MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="3ea2ff" />
       </value>
     </option>
     <option name="REASONML_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="bf576e" />
+        <option name="FOREGROUND" value="c45b6f" />
+      </value>
+    </option>
+    <option name="REASONML_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="REASONML_STRING">
+      <value>
+        <option name="FOREGROUND" value="bbb529" />
       </value>
     </option>
     <option name="REASONML_TAG">
       <value>
-        <option name="FOREGROUND" value="964ac6" />
-        <option name="BACKGROUND" value="2b2b2b" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="8effa2" />
+      </value>
+    </option>
+    <option name="REASONML_UIDENT">
+      <value>
+        <option name="FOREGROUND" value="8297c6" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
