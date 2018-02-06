@@ -44,7 +44,7 @@
     </option>
     <option name="REASONML_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="e9e9e9" />
+        <option name="FOREGROUND" value="5B5B5B" />
       </value>
     </option>
     <option name="REASONML_STRING">
@@ -52,9 +52,14 @@
         <option name="FOREGROUND" value="bbb529" />
       </value>
     </option>
-    <option name="REASONML_TAG">
+    <option name="REASONML_MARKUP_TAG">
       <value>
-        <option name="FOREGROUND" value="8effa2" />
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="REASONML_MARKUP_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="bababa" />
       </value>
     </option>
     <option name="REASONML_UIDENT">
