@@ -1,82 +1,87 @@
 <scheme name="dark_reason" version="142" parent_scheme="Darcula">
-  <attributes>
-    <option name="REASONML_BRACES">
-      <value>
-        <option name="FOREGROUND" value="8ECFBE" />
-      </value>
-    </option>
-    <option name="REASONML_BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="8ECFBE" />
-      </value>
-    </option>
-    <option name="REASONML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="629755" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="REASONML_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="179f76" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REASONML_MODULE_NAME">
-      <value>
-        <option name="FOREGROUND" value="678cb1" />
-      </value>
-    </option>
-    <option name="REASONML_OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="c45b6f" />
-      </value>
-    </option>
-    <option name="REASONML_OPTION">
-      <value>
-        <option name="FOREGROUND" value="91A6FF" />
-      </value>
-    </option>
-    <option name="REASONML_PARENS">
-      <value>
-        <option name="FOREGROUND" value="8ECFBE" />
-      </value>
-    </option>
-    <option name="REASONML_SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="5B5B5B" />
-      </value>
-    </option>
-    <option name="REASONML_STRING">
-      <value>
-        <option name="FOREGROUND" value="C5A15B" />
-      </value>
-    </option>
-    <option name="REASONML_TYPE_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="c0909c" />
-      </value>
-    </option>
-    <option name="REASONML_MARKUP_TAG">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="REASONML_MARKUP_ATTRIBUTE">
-      <value>
-        <option name="FOREGROUND" value="A7823C" />
-      </value>
-    </option>
-    <option name="REASONML_UIDENT">
-      <value>
-        <option name="FOREGROUND" value="8297c6" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REASONML_VARIANT_NAME">
-      <value>
-        <option name="FOREGROUND" value="969dbc" />
-      </value>
-    </option>
-  </attributes>
+    <attributes>
+        <option name="REASONML_ANNOTATION">
+            <value>
+                <option name="FOREGROUND" value="b9bb76"/>
+            </value>
+        </option>
+        <option name="REASONML_BRACES">
+            <value>
+                <option name="FOREGROUND" value="8ECFBE"/>
+            </value>
+        </option>
+        <option name="REASONML_BRACKETS">
+            <value>
+                <option name="FOREGROUND" value="8ECFBE"/>
+            </value>
+        </option>
+        <option name="REASONML_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="629755"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="REASONML_KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="179f76"/>
+                <option name="FONT_TYPE" value="1"/>
+            </value>
+        </option>
+        <option name="REASONML_MODULE_NAME">
+            <value>
+                <option name="FOREGROUND" value="678cb1"/>
+            </value>
+        </option>
+        <option name="REASONML_OPERATION_SIGN">
+            <value>
+                <option name="FOREGROUND" value="c45b6f"/>
+            </value>
+        </option>
+        <option name="REASONML_OPTION">
+            <value>
+                <option name="FOREGROUND" value="91A6FF"/>
+            </value>
+        </option>
+        <option name="REASONML_PARENS">
+            <value>
+                <option name="FOREGROUND" value="8ECFBE"/>
+            </value>
+        </option>
+        <option name="REASONML_SEMICOLON">
+            <value>
+                <option name="FOREGROUND" value="5B5B5B"/>
+            </value>
+        </option>
+        <option name="REASONML_STRING">
+            <value>
+                <option name="FOREGROUND" value="C5A15B"/>
+            </value>
+        </option>
+        <option name="REASONML_TYPE_ARGUMENT">
+            <value>
+                <option name="FOREGROUND" value="c0909c"/>
+            </value>
+        </option>
+        <option name="REASONML_MARKUP_TAG">
+            <value>
+                <option name="FOREGROUND" value="e8bf6a"/>
+            </value>
+        </option>
+        <option name="REASONML_MARKUP_ATTRIBUTE">
+            <value>
+                <option name="FOREGROUND" value="A7823C"/>
+            </value>
+        </option>
+        <option name="REASONML_UIDENT">
+            <value>
+                <option name="FOREGROUND" value="8297c6"/>
+                <option name="FONT_TYPE" value="1"/>
+            </value>
+        </option>
+        <option name="REASONML_VARIANT_NAME">
+            <value>
+                <option name="FOREGROUND" value="969dbc"/>
+            </value>
+        </option>
+    </attributes>
 </scheme>
