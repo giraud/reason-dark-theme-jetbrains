@@ -52,6 +52,11 @@
         <option name="FOREGROUND" value="bbb529" />
       </value>
     </option>
+    <option name="REASONML_TYPE_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="c0909c" />
+      </value>
+    </option>
     <option name="REASONML_MARKUP_TAG">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -66,6 +71,11 @@
       <value>
         <option name="FOREGROUND" value="8297c6" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="REASONML_VARIANT_NAME">
+      <value>
+        <option name="FOREGROUND" value="969dbc" />
       </value>
     </option>
   </attributes>
